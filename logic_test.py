@@ -15,6 +15,6 @@ def basic_math():
     assert 3**3 == 9
 
 
-if __file__ == __main__:
-    test_dataset(dataset())
-    basic_math()
+
+test_dataset(dataset())
+basic_math()
