@@ -13,8 +13,3 @@ def basic_math():
     assert 1+1 == 2
     assert 2*2 == 4
     assert 3**3 == 9
-
-
-
-test_dataset()
-basic_math()
